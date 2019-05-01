@@ -1,0 +1,5 @@
+StrictHostKeyChecking no
+# 
+# github.com
+     HostName github.com
+     IdentityFile ~/.ssh/daniel.poston@newspring.cc

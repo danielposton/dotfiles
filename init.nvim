@@ -1,0 +1,6 @@
+set nocompatible
+set showmatch
+set autoindent
+set number
+set termguicolors
+colorscheme dracula
